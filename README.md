@@ -116,17 +116,6 @@
 
 ---
 
-## 7️⃣ Dynamic Arrays & Error Handling
-
-| Function | Example Formula |
-|--------|----------------|
-| FILTER | `=FILTER(A2:K31,F2:F31="Technology")` |
-| FREQUENCY | `=FREQUENCY(H2:H31,M2:M6)` |
-| SEQUENCE | `=SEQUENCE(10)` |
-| RANDARRAY | `=RANDARRAY(5,2,1,100,TRUE)` |
-| IFERROR | `=IFERROR(VLOOKUP("O999",A2:K31,8,FALSE),"Not Found")` |
-
----
 
 ## 8️⃣ Excel Tools (Conceptual)
 
